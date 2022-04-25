@@ -15,5 +15,5 @@
 
 ## Storyboard
 
-![](storyboard2.jpg)
-![](storyboard1.jpg)
+![](storyboard1.png)
+![](storyboard2.png)
