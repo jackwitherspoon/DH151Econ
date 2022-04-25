@@ -4,7 +4,7 @@
 | Annika Sial | Edryna Ahmed | Jack Witherspoon | 
 |:---:|:---:|:---:|
 | ![](annika2.png) | ![](cynthiamindmap.png) | ![](danielmindmap.png) | 
-| Our group hopes to implement multiple lays to allow for different types of analysis. Along with case studies on specic countries to give more background | Website format will be primarily based on this draft. Closeable sidebar will also be included containing information specific to a borough. | Super neat feature was adding a color-blind option to make the website more accessible to all users. Will also be including ideas about making the map itself more interactive. | Important that we include narrative on our website; while it won't be included on the same page as the map, we will be adding additional subpages to the site that will highlight these details. | 
+| Our group hopes to implement multiple lays to allow for different types of analysis. Along with case studies on specic countries to give more background. | Website format will be primarily based on this draft. Closeable sidebar will also be included containing information specific to a borough. | Super neat feature was adding a color-blind option to make the website more accessible to all users. Will also be including ideas about making the map itself more interactive. | Important that we include narrative on our website; while it won't be included on the same page as the map, we will be adding additional subpages to the site that will highlight these details. | 
 
 ## Crazy Eights
 
