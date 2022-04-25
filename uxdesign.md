@@ -11,8 +11,7 @@
 | Annika Sial | Edryna Ahmed | Jack Witherspoon |
 |:---:|:---:|:---:|
 | ![](annika2.png) | ![](cynthiaeights.png) | ![](jack2.png) |
-| Our group hopes to implement multiple lays to allow for different types of analysis. | Would be interesting to create interactive charts and graphs on the website, allowing users to see an animated story of the data. | Idea of animating the charts would be great for increasing interactivity. | Would be cool to have a little help icon on the bottom that explains to users what our website does and how to navigate it. | 
-
+| Our group hopes to implement multiple lays to allow for different types of analysis. | Would be interesting to create interactive charts and graphs on the website, allowing users to see an animated story of the data. | Add unqiue markers to countries we include case studies on. This will give more background on certian areas. | 
 ## Storyboard
 
 ![](storyboard1.png)
