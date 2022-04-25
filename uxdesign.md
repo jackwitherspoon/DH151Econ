@@ -10,7 +10,7 @@
 
 | Annika Sial | Edryna Ahmed | Jack Witherspoon |
 |:---:|:---:|:---:|
-| ![](annika2.png) | ![](edryna2.png) | ![](jack2.png) |
+| ![](annika2.png) | ![](edyna2.png) | ![](jack2.png) |
 | Our group hopes to implement multiple lays to allow for different types of analysis. |Search bar, colour gradient and filtering countries by poverty level are some propositions targeted to guide the user in exploring the data with ease.. | Add unqiue markers to countries we include case studies on. This will give more background on certian areas. | 
 ## Storyboard
 
