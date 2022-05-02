@@ -1,0 +1,114 @@
+﻿Country,Latitude,Longitude,Poverty
+Albania,41,20,3
+Algeria,28,3,3
+Angola,-12.5,18.5,1
+Argentina,-34,-64,3
+Armenia,40,45,3
+Azerbaijan,40.5,47.5,2
+Bangladesh,24,90,3
+Belarus,53,28,2
+Belize,17.25,-88.75,3
+Benin,9.5,2.25,1
+Bolivia (Plurinational State of),-17,-65,3
+Bosnia and Herzegovina,44,18,3
+Botswana,-22,24,3
+Brazil,-10,-55,3
+Burkina Faso,13,-2,2
+Burundi,-3.5,30,1
+Cabo Verde,16,-24,3
+Cambodia,13,105,2
+Cameroon,6,12,3
+Central African Republic,7,21,1
+Chad,15,19,1
+Chile,-30,-71,3
+China,35,105,3
+Colombia,4,-72,3
+Comoros,-12.1667,44.25,3
+Congo,-1,15,1
+Costa Rica,10,-84,3
+Côte d'Ivoire,8,-5,2
+Democratic Republic of the Congo,0,25,1
+Dominican Republic,19,-70.6667,3
+Ecuador,-2,-77.5,3
+Egypt,27,30,3
+El Salvador,13.8333,-88.9167,3
+Ethiopia,8,38,3
+Fiji,-18,175,3
+Gabon,-1,11.75,3
+Gambia,13.4667,-16.5667,3
+Georgia,42,43.5,3
+Ghana,8,-2,3
+Guatemala,15.5,-90.25,3
+Guinea,11,-10,2
+Guinea-Bissau,12,-15,1
+Guyana,5,-59,3
+Haiti,19,-72.4167,3
+Honduras,15,-86.5,3
+India,20,77,3
+Indonesia,-5,120,3
+Iran (Islamic Republic of),32,53,3
+Iraq,33,44,3
+Jamaica,18.25,-77.5,3
+Jordan,31,36,3
+Kazakhstan,48,68,3
+Kenya,1,38,2
+Kyrgyzstan,41,75,3
+Lao People's Democratic Republic,18,105,3
+Lebanon,33.8333,35.8333,3
+Lesotho,-29.5,28.5,3
+Liberia,6.5,-9.5,1
+Madagascar,-20,47,1
+Malawi,-13.5,34,1
+Malaysia,2.5,112.5,3
+Maldives,3.25,73,3
+Mali,17,-4,1
+Mauritania,20,-12,3
+Mauritius,-20.2833,57.55,3
+Mexico,23,-102,3
+Mongolia,46,105,3
+Montenegro**,42,19,3
+Morocco,32,-5,3
+Mozambique,-18.25,35,1
+Myanmar,22,98,3
+Namibia,-22,17,3
+Nepal,28,84,3
+Nicaragua,13,-85,3
+Niger,16,8,1
+Nigeria,10,8,1
+North Macedonia,41.8333,22,3
+Pakistan,30,70,3
+Panama,9,-80,3
+Papua New Guinea,-6,147,3
+Paraguay,-23,-58,3
+Peru,-10,-76,3
+Philippines,13,122,3
+Republic of Moldova,47,29,3
+Russian Federation,60,100,3
+Rwanda,-2,30,1
+Senegal,14,-14,1
+Serbia*,44,21,3
+Sierra Leone,8.5,-11.5,1
+Solomon Islands,-8,159,2
+South Africa,-29,24,3
+Sri Lanka,7,81,3
+Sudan,15,30,3
+Suriname,4,-56,1
+Syrian Arab Republic,35,38,1
+Tajikistan,39,71,3
+Thailand,15,100,3
+Timor-Leste,-8.55,125.5167,2
+Togo,8,1.1667,1
+Trinidad and Tobago,11,-61,3
+Tunisia,34,9,3
+Turkey,39,35,3
+Turkmenistan,40,60,3
+Uganda,1,32,1
+Ukraine,49,32,3
+United Republic of Tanzania,-6,35,1
+Uruguay,-33,-56,3
+Uzbekistan,41,64,3
+Venezuela,8,-66,1
+Viet Nam,16,106,3
+Yemen,15,48,1
+Zambia,-15,30,1
+Zimbabwe,-20,30,1
